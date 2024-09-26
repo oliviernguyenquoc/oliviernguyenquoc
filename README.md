@@ -1,5 +1,9 @@
 # 👨‍🦰 About me
 
+Previous data scientist @ L'Oréal working on building a video-matching software (based on CNN network) for marketing teams
+I'm currently working at Decathlon in Paris.
+Still coding on my personnal time (Webapp, AI ...) to discover new technologies
+
 ## My stack
 
 
